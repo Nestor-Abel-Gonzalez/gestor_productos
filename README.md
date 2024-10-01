@@ -1,4 +1,4 @@
-
+solución utilizando Python en el paradigma de programación orientada a objetos. La persistencia de los datos deberá realizarse en una base de datos SQL. 
 # Desafío 1: Sistema de Gestión de Productos
 
 Objetivo: Desarrollar un sistema para manejar productos en un inventario.
