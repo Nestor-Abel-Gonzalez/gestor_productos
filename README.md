@@ -1,5 +1,5 @@
 
-# Python, conexión con MySQL, SQLite3, SQL Server, PostgreSQL, Oracle o MongoDB
+# Python, conexión con MySQL
 
 Tutorial para conexión con Python hacia los sistemas gestores MySQL, Oracle, SQL Server, PostgreSQL, SQLite3 y MongoDB.
 
