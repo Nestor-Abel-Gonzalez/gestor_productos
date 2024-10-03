@@ -19,7 +19,7 @@ Requisitos:
 La persistencia de los datos se realiza en una base de datos SQL.***
 
 
-<u>Subrayado en HTML</u>
+<u>Subrayado en HTML>
 
 <hr/>
 
