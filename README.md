@@ -27,10 +27,10 @@ Utilice el administrador de paquetes pip(https://pip.pypa.io/en/stable/) para in
 
 ### 1. crear un entorno virtual:
    
-```
+*```
  python -m virtualenv
 ```
-
+*
 ### 2. Activar entorno virtual:
 ```
 cd venv\Scripts\activate
