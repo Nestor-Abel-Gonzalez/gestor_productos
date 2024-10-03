@@ -23,17 +23,16 @@ La persistencia de los datos se realiza en una base de datos SQL.***
 
 `línea de código`
 
-```php
-<?php
+```
+<?
   echo "fragmento largo de código";
 ?>
 ```
 
->Este texto será una cita.
 
 [Visita mi web](https://oscarnovas.com)
  
-Utilice el administrador de paquetes pip https://pip.pypa.io/en/stable/ para instalar.
+Utilice el administrador de paquetes [pip](https://pip.pypa.io/en/stable/) para instalar.
 
 ### 1. crear un entorno virtual:   
 ```
