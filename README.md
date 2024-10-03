@@ -22,7 +22,8 @@ La persistencia de los datos se realiza en una base de datos SQL.
 
 Segundo, Activar entorno virtual:
 ### `cd venv\Scripts\activate`
-
+En el Directorio raiz crear un archivo .env que contenga los datos de su sistema DB host,DB Name etc
+se adjunta un arhcivo Ejemplo
 Luego para instalar los paquetes necesarios:
 ### `pip install -r requirements.txt`
 
