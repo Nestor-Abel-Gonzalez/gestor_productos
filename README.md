@@ -27,9 +27,9 @@ La persistencia de los datos se realiza en una base de datos SQL.
  python -m virtualenv
 ```
 
-### 3. Activar entorno virtual:
+### 2. Activar entorno virtual:
 ```
-```cd venv\Scripts\activate```
+cd venv\Scripts\activate
 ```
 3. En el Directorio raiz crear un archivo .env que contenga los datos de su sistema DB localhost, DB Name, DB user etc.
    se adjunta un arhcivo Ejemplo
