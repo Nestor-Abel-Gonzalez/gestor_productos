@@ -21,6 +21,17 @@ La persistencia de los datos se realiza en una base de datos SQL.***
 
 <hr/>
 
+`línea de código`
+
+```php
+<?php
+  echo "fragmento largo de código";
+?>
+```
+
+>Este texto será una cita.
+
+[Visita mi web](https://oscarnovas.com)
  
 Utilice el administrador de paquetes pip https://pip.pypa.io/en/stable/ para instalar.
 
