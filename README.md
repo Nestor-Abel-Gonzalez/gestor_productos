@@ -21,7 +21,7 @@ La persistencia de los datos se realiza en una base de datos SQL.***
 
 <hr/>
 
-`línea de código`
+`línea de código del Script sql`
 
 ```sql
 CREATE DATABASE IF NOT EXISTS productos CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
