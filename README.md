@@ -22,7 +22,7 @@ Primero, crear un entorno virtual:
 
 <hr/>
 
-Para instalar los paquetes necesarios:
+Luego para instalar los paquetes necesarios:
 ### `pip install -r requirements.txt`
 
 <hr/>
