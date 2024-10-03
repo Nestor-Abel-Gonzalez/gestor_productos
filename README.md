@@ -13,14 +13,13 @@ Requisitos:
 Se implementa una solución utilizando Python en el paradigma de programación orientada a objetos.
 La persistencia de los datos se realiza en una base de datos SQL.
 
----
 
 <hr/>
 
-1. crear un entorno virtual:
+### 1. crear un entorno virtual:
    
 ```
-### ` python -m virtualenv `
+ python -m virtualenv
 ```
 
 3. Activar entorno virtual:
