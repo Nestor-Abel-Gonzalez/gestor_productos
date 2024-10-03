@@ -17,7 +17,7 @@ La persistencia de los datos se realiza en una base de datos SQL.
 
 <hr/>
 
-Primero, crear un entorno virtual:
+**Primero, crear un entorno virtual:**
 ### `python -m virtualenv venv`  
 
 Segundo, Activar entorno virtual:
