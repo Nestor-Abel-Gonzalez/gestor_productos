@@ -21,6 +21,14 @@ La persistencia de los datos se realiza en una base de datos SQL._
 
 <hr/>
 
+*Texto en cursiva*
+_Texto en cursiva_
+**Texto en negrita**
+__Texto en negrita__
+***Texto en cursiva y negrita***
+___Texto en cursiva y negrita___
+
+
 <p>Esta <b>palabra</b> va en negrita y esta <strong>también</strong></p>
  
 Utilice el administrador de paquetes pip(https://pip.pypa.io/en/stable/) para instalar.
