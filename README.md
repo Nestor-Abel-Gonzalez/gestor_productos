@@ -1,6 +1,7 @@
  
 # Desafío 1: Sistema Gestión de Productos
 
+<hr/>
 Objetivo: Desarrollar un sistema para administrar productos en un inventario.
 
 Requisitos:
@@ -19,7 +20,7 @@ Requisitos:
 La persistencia de los datos se realiza en una base de datos SQL.***
 
 
-<Subrayado en HTML>
+
 
 <hr/>
 
