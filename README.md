@@ -21,7 +21,7 @@ La persistencia de los datos se realiza en una base de datos SQL._
 
 <hr/>
 
-github.com/<organization>/<repository>/blob/<branch_name>/README.md?plain=1.
+<p>Esta <b>palabra</b> va en negrita y esta <strong>también</strong></p>
  
 Utilice el administrador de paquetes pip(https://pip.pypa.io/en/stable/) para instalar.
 
