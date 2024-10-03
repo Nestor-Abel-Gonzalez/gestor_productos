@@ -24,9 +24,7 @@ La persistencia de los datos se realiza en una base de datos SQL.***
 `línea de código`
 
 ```php
-<?
   echo "fragmento largo de código";
-?>
 ```
 
 
