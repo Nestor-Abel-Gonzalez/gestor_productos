@@ -15,17 +15,22 @@ Requisitos:
     
   •Persistir los datos en BD MySql.
 
-_Se implementa una solución utilizando Python en el paradigma de programación orientada a objetos.
-La persistencia de los datos se realiza en una base de datos SQL._
+__Se implementa una solución utilizando Python en el paradigma de programación orientada a objetos.
+La persistencia de los datos se realiza en una base de datos SQL.__
 
 
 <hr/>
 
 *Texto en cursiva*
+
 _Texto en cursiva_
+
 **Texto en negrita**
+
 __Texto en negrita__
+
 ***Texto en cursiva y negrita***
+
 ___Texto en cursiva y negrita___
 
 
