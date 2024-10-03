@@ -20,7 +20,9 @@ La persistencia de los datos se realiza en una base de datos SQL.***
 
 
 <hr/>
+
 <u>Subrayado en HTML</u>
+
 
 `línea de código del Script sql`
 
