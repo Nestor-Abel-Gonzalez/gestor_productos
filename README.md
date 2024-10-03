@@ -20,6 +20,7 @@ La persistencia de los datos se realiza en una base de datos SQL._
 
 
 <hr/>
+github.com/<organization>/<repository>/blob/<branch_name>/README.md?plain=1.
 Utilice el administrador de paquetes pip(https://pip.pypa.io/en/stable/) para instalar.
 
 ### 1. crear un entorno virtual:
