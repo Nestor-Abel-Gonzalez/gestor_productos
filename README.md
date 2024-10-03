@@ -1,7 +1,7 @@
  
-# Desafío 1: Sistema de Gestión de Productos
+# Desafío 1: Sistema Gestión de Productos
 
-Objetivo: Desarrollar un sistema para manejar productos en un inventario.
+Objetivo: Desarrollar un sistema para administrar productos en un inventario.
 
 Requisitos:
 
@@ -27,8 +27,9 @@ La persistencia de los datos se realiza en una base de datos SQL.
  python -m virtualenv
 ```
 
-3. Activar entorno virtual:
-### `cd venv\Scripts\activate`
+### 3. Activar entorno virtual:
+
+```cd venv\Scripts\activate```
 
 3. En el Directorio raiz crear un archivo .env que contenga los datos de su sistema DB localhost, DB Name, DB user etc.
    se adjunta un arhcivo Ejemplo
