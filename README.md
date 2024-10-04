@@ -2,7 +2,7 @@
 ---
 **Desafío 1, objetivo:** Desarrollar un sistema para administrar productos en un inventario.  
  
-**Requisitos:**📋
+**Requisitos: 📋**
 
   •Crear una clase base Producto con atributos como nombre, precio, cantidad en stock, etc.
     
