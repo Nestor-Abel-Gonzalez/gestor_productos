@@ -1,8 +1,9 @@
 # Sistema Gestión de Productos
  
-**Desafío 1**
+****
+**Desafío 1 objetivo:** Desarrollar un sistema para administrar productos en un inventario.
 
-**Objetivo:** Desarrollar un sistema para administrar productos en un inventario.
+
 
 **Requisitos:**
 
@@ -47,7 +48,7 @@ CREATE TABLE productos (
 Utilice el administrador de paquetes [pip](https://pip.pypa.io/en/stable/) para instalar.
 
 ### 1. crear un entorno virtual:   
-```bash
+```
  python -m virtualenv
 ```
 ### 2. Activar entorno virtual:
