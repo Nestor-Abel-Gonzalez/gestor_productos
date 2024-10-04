@@ -38,7 +38,6 @@ CREATE TABLE productos (
     garantia VARCHAR(255) NOT NULL,
     fecha_expiracion DATE
 );
-:wrench:
 
 ### Pre-requisitos 📋
 
