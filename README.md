@@ -23,9 +23,6 @@ La persistencia de los datos se realiza en una base de datos SQL.***
 ---
 
 
-:wrench:
-
-
 `línea de código del Script sql`
 
 ```sql
@@ -41,8 +38,9 @@ CREATE TABLE productos (
     garantia VARCHAR(255) NOT NULL,
     fecha_expiracion DATE
 );
-```
- 
+
+### Pre-requisitos 📋 :wrench:
+``` 
 **Utilice el administrador de paquetes [pip](https://pip.pypa.io/en/stable/) para instalar**.
 
 ### 1. crear un entorno virtual:   
