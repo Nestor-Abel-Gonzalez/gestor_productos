@@ -22,7 +22,7 @@ La persistencia de los datos se realiza en una base de datos SQL.***
 
 ---
 
-:blue_wrench:
+:wrench_and_hammer:
 
 
 `línea de código del Script sql`
