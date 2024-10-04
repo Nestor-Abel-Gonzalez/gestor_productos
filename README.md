@@ -39,6 +39,7 @@ CREATE TABLE productos (
     fecha_expiracion DATE
 );
 :wrench:
+
 ### Pre-requisitos 📋
 
 
