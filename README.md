@@ -24,6 +24,9 @@ La persistencia de los datos se realiza en una base de datos SQL.***
 
 ---
 
+<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
+
+
 <span style="color:red">
 Text content
 </span>
