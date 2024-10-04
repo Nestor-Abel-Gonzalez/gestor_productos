@@ -1,5 +1,5 @@
 # Sistema Gestión de Productos
-- - -
+---
 **Desafío 1, objetivo:** Desarrollar un sistema para administrar productos en un inventario.  
  
 **Requisitos:**
@@ -20,7 +20,7 @@ La persistencia de los datos se realiza en una base de datos SQL.***
 
 
 
-<hr/>
+---
 
 
 
@@ -62,4 +62,4 @@ cd venv\Scripts\activate
 
 6. Para iniciar Ejecutar python main.py
 
-<hr/>
+---
