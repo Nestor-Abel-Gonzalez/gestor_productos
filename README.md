@@ -2,9 +2,9 @@
  
 **Desafío 1**
 
-Objetivo: Desarrollar un sistema para administrar productos en un inventario.
+**Objetivo:** Desarrollar un sistema para administrar productos en un inventario.
 
-Requisitos:
+**Requisitos:**
 
   •Crear una clase base Producto con atributos como nombre, precio, cantidad en stock, etc.
     
@@ -47,7 +47,7 @@ CREATE TABLE productos (
 Utilice el administrador de paquetes [pip](https://pip.pypa.io/en/stable/) para instalar.
 
 ### 1. crear un entorno virtual:   
-```
+```bash
  python -m virtualenv
 ```
 ### 2. Activar entorno virtual:
