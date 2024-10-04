@@ -39,8 +39,8 @@ CREATE TABLE productos (
     fecha_expiracion DATE
 );
 
-```
-### Pre-requisitos 📋:wrench:
+```:wrench:
+### Pre-requisitos 📋
 **Utilice el administrador de paquetes [pip](https://pip.pypa.io/en/stable/) para instalar**.
 
 ### 1. crear un entorno virtual:   
