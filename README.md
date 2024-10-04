@@ -1,4 +1,5 @@
-# Sistema Gestión de Productos  ***
+# Sistema Gestión de Productos
+---
 **Desafío 1, objetivo:** Desarrollar un sistema para administrar productos en un inventario.  
  
 **Requisitos:**
