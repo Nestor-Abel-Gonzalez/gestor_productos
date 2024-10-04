@@ -17,12 +17,12 @@
 ***Se implementa una solución utilizando Python en el paradigma de programación orientada a objetos.
 La persistencia de los datos se realiza en una base de datos SQL.***
 
-:green_heart:
+
 
 
 ---
 
-
+🛠️_wrench:
 
 
 `línea de código del Script sql`
