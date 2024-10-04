@@ -40,7 +40,9 @@ CREATE TABLE productos (
 );
 
 ### Pre-requisitos 📋
+
 :wrench:
+
 ``` 
 **Utilice el administrador de paquetes [pip](https://pip.pypa.io/en/stable/) para instalar**.
 
