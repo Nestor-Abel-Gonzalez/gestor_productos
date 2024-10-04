@@ -39,8 +39,8 @@ CREATE TABLE productos (
     fecha_expiracion DATE
 );
 
+```
 ### Pre-requisitos 📋
-``` 
 **Utilice el administrador de paquetes [pip](https://pip.pypa.io/en/stable/) para instalar**.
 
 ### 1. crear un entorno virtual:   
@@ -51,6 +51,7 @@ CREATE TABLE productos (
 ```
 cd venv\Scripts\activate
 ```
+
 3. En el Directorio raiz crear un archivo .env que contenga los datos de su sistema DB localhost, DB Name, DB user etc.
    se adjunta un arhcivo Ejemplo
 
@@ -61,4 +62,6 @@ cd venv\Scripts\activate
 
 6. Para iniciar Ejecutar python main.py
 
+
+### Pre-requisitos
 ---
