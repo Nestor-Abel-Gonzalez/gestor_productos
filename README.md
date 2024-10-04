@@ -1,5 +1,4 @@
  # Desafío 1: Sistema Gestión de Productos
-<hr/>
 Objetivo: Desarrollar un sistema para administrar productos en un inventario.
 
 Requisitos:
