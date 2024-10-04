@@ -1,4 +1,8 @@
 # Sistema Gestión de Productos
+
+<span style="color:red">
+Text content
+</span>
 ---
 **Desafío 1, objetivo:** Desarrollar un sistema para administrar productos en un inventario.  
  
