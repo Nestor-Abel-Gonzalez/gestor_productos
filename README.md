@@ -1,5 +1,6 @@
 # Sistema Gestión de Productos
 
+
 **Desafío 1, objetivo:** Desarrollar un sistema para administrar productos en un inventario.  
  
 **Requisitos: 📋**
@@ -17,18 +18,16 @@
 ***Se implementa una solución utilizando Python en el paradigma de programación orientada a objetos.
 La persistencia de los datos se realiza en una base de datos SQL.***
 
-
-
-
 ---
 
 ### Instalar e iniciar MySql Workbench:
+
 
 Cargar y ejecutar el script productos.sql
 
 :wrench:
 `línea de código Script sql para crear Base de Datos`
-
+---
 ```sql
 CREATE DATABASE IF NOT EXISTS productos CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
 
