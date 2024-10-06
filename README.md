@@ -76,7 +76,7 @@ virtualenv\Scripts\activate
    
 ### 6. instalar los paquetes necesarios:
 ```
-pip install -r requirements.txt
+pip install -r gestor_productos\requirements.txt
 ```
 
 ### 7. Para iniciar Ejecutar:
