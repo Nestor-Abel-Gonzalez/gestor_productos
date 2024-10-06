@@ -43,15 +43,19 @@ CREATE TABLE productos (
 
 ### Pre-requisitos 📋  :wrench:
 **Utilice control de version [Git](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Git)**
+
 **Y administrador de paquetes [pip](https://pip.pypa.io/en/stable/) para instalar**.
 
-### En VSC abrir un terminal de comando e iniciar git
+### En VSC abrir un terminal de comando en Su Carpeta de trabajo e iniciar git
 
 ```
 git init
 ```
+### Conar Repositorio:
 
-
+```
+git clone https://github.com/Nestor-Abel-Gonzalez/gestor_productos.git
+```
 ### 1. crear un entorno virtual:   
 ```
  python -m virtualenv
