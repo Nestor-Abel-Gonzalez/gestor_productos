@@ -53,16 +53,19 @@ CREATE TABLE productos (
 cd venv\Scripts\activate
 ```
 
-3. En el Directorio raiz crear un archivo .env que contenga los datos de su sistema DB localhost, DB Name, DB user etc.
-   se adjunta un arhcivo Ejemplo
+### 3. En el Directorio raiz:
 
-4. Iniciar MySql Workbench y ejecutar el script productos.sql
+  crear un archivo .env que contenga los datos de su sistema DB localhost, DB Name, DB user etc.
+  se adjunta un arhcivo Ejemplo
+
+### 5. Iniciar MySql Workbench:
+   ejecutar el script productos.sql
    
-5. Luego para instalar los paquetes necesarios:
-### `pip install -r requirements.txt`
+### 7. instalar los paquetes necesarios:
+```pip install -r requirements.txt```
 
-6. Para iniciar Ejecutar python main.py
+### 6. Para iniciar Ejecutar:
 
+   ```python main.py```
 
-### Pre-requisitos
 ---
