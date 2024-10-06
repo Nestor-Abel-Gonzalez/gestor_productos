@@ -23,7 +23,7 @@ La persistencia de los datos se realiza en una base de datos SQL.***
 ### Instalar e iniciar MySql Workbench:
 
 
-Cargar y ejecutar el script productos.sql
+***Cargar y ejecutar el script productos.sql***
 
 :wrench:
 `línea de código Script sql para crear Base de Datos`
