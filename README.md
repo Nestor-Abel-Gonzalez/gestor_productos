@@ -62,7 +62,7 @@ git clone https://github.com/Nestor-Abel-Gonzalez/gestor_productos.git
 ```
 ### 3. crear un entorno virtual:   
 ```
- python -m virtualenv
+ python -m venv virtualenv
 ```
 ### 4. Activar entorno virtual:
 ```
