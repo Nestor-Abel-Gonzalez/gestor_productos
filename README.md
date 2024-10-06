@@ -82,7 +82,7 @@ pip install -r gestor_productos\requirements.txt
 ### 7. Para iniciar Ejecutar:
 
    ```
-   python main.py
+   python main.py gestor_productos\main.py
 ```
 
 ---
