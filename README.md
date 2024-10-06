@@ -66,7 +66,7 @@ git clone https://github.com/Nestor-Abel-Gonzalez/gestor_productos.git
 ```
 ### 4. Activar entorno virtual:
 ```
-cd venv\Scripts\activate
+virtualenv\Scripts\activate
 ```
 
 ### 5. En el Directorio raiz:
