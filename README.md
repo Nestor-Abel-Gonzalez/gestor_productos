@@ -62,10 +62,14 @@ cd venv\Scripts\activate
    ejecutar el script productos.sql
    
 ### 7. instalar los paquetes necesarios:
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 ### 6. Para iniciar Ejecutar:
 
-   ```python main.py```
+   ```
+   python main.py
+```
 
 ---
