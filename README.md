@@ -76,13 +76,13 @@ virtualenv\Scripts\activate
    
 ### 6. instalar los paquetes necesarios:
 ```
-pip install -r gestor_productos\requirements.txt
+pip install -r requirements.txt
 ```
 
 ### 7. Para iniciar Ejecutar:
 
-   ```
-   python main.py gestor_productos\main.py
-```
+
+   python main.py
+
 
 ---
