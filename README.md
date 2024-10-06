@@ -22,6 +22,10 @@ La persistencia de los datos se realiza en una base de datos SQL.***
 
 ---
 
+### Instalar e iniciar MySql Workbench:
+
+Cargar y ejecutar el script productos.sql
+
 :wrench:
 `línea de código Script sql para crear Base de Datos`
 
@@ -41,44 +45,41 @@ CREATE TABLE productos (
 
 ```
 
-### Pre-requisitos 📋  :wrench:
+### Pre-requisitos de instalacion y puesta en funcionamiento 📋  :wrench:
 **Utilice control de version [Git](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Git)**
 
 **Y administrador de paquetes [pip](https://pip.pypa.io/en/stable/) para instalar**.
 
-### En VSC abrir un terminal de comando en Su Carpeta de trabajo e iniciar git
+### 1. En VSC abrir un terminal de comando en Su Carpeta de trabajo e iniciar git
 
 ```
 git init
 ```
-### Conar Repositorio:
+### 2. Clonar Repositorio:
 
 ```
 git clone https://github.com/Nestor-Abel-Gonzalez/gestor_productos.git
 ```
-### 1. crear un entorno virtual:   
+### 3. crear un entorno virtual:   
 ```
  python -m virtualenv
 ```
-### 2. Activar entorno virtual:
+### 4. Activar entorno virtual:
 ```
 cd venv\Scripts\activate
 ```
 
-### 3. En el Directorio raiz:
+### 5. En el Directorio raiz:
 
-  crear un archivo .env que contenga los datos de su sistema DB localhost, DB Name, DB user etc.
-  se adjunta un arhcivo Ejemplo
-
-### 5. Iniciar MySql Workbench:
-   ejecutar el script productos.sql
+  ***crear un archivo .env que contenga los datos de su sistema DB localhost, DB Name, DB user etc.
+    se adjunta un arhcivo Ejemplo .envexample***
    
-### 7. instalar los paquetes necesarios:
+### 6. instalar los paquetes necesarios:
 ```
 pip install -r requirements.txt
 ```
 
-### 6. Para iniciar Ejecutar:
+### 7. Para iniciar Ejecutar:
 
    ```
    python main.py
