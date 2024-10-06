@@ -26,7 +26,8 @@ La persistencia de los datos se realiza en una base de datos SQL.***
 ***Cargar y ejecutar el script productos.sql***
 
 :wrench:
-`línea de código Script sql para crear Base de Datos`
+`Código Script sql para crear Base de Datos`  
+
 
 ```sql
 CREATE DATABASE IF NOT EXISTS productos CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
