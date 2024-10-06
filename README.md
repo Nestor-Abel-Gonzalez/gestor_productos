@@ -42,7 +42,15 @@ CREATE TABLE productos (
 ```
 
 ### Pre-requisitos 📋  :wrench:
-**Utilice el administrador de paquetes [pip](https://pip.pypa.io/en/stable/) para instalar**.
+**Utilice control de version [Git](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Git)**
+**Y administrador de paquetes [pip](https://pip.pypa.io/en/stable/) para instalar**.
+
+### En VSC abrir un terminal de comando e iniciar git
+
+```
+git init
+```
+
 
 ### 1. crear un entorno virtual:   
 ```
